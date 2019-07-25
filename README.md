@@ -1,3 +1,3 @@
 # tg
 
-Основанно на https://taraflex.github.io/tg/
+Thanks taraflex.github.io
