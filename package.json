@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taraflex/tg.git"
+    "url": "git+https://github.com/Loudist/tg.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Taraflex/tg/issues"
+    "url": "https://github.com/Loudist/tg/issues"
   },
-  "homepage": "https://github.com/Taraflex/tg#readme",
+  "homepage": "https://github.com/Loudist/tg#readme",
   "devDependencies": {
     "autoprefixer": "^9.5.0",
     "cssnano": "^4.1.10",
